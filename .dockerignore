@@ -5,3 +5,5 @@ certs
 
 selfsigned.key
 selfsigned.crt
+
+database.sqlite3

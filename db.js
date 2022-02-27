@@ -1,6 +1,9 @@
 import sqlite3 from "sqlite3"
 
 function desirialise(data) {
+    if (!data) {
+        return data;
+    }
     return {
         id: data.id,
         request: {
