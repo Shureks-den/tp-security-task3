@@ -14,8 +14,8 @@
 
 Запросы для api
 
-get `http://localhost/requests` - получить из базы все запросы и ответы
-get `http://localhost/request/:id` - получить из базы запрос id и ответ на него
+get `http://localhost/requests` - получить из базы все запросы и ответы  
+get `http://localhost/request/:id` - получить из базы запрос id и ответ на него  
 get `http://localhost/repeat/:id` - повторить запрос id
 
 
